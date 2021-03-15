@@ -1,3 +1,1 @@
-return function()
-	print("Hello, world!")
-end
+-- I'm not kidding stop it
