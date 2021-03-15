@@ -10,8 +10,8 @@
 <p>You can play the game <a href="https://www.roblox.com/games/6483238692/">here</a> but keep in mind, it won't be finished for a while.</p>
 
 <h2>Who works on the project?</h2>
-<p>The team is constantly expanding, but here's a list of the people currently contributing to the github page thing. (Please add your name if you belong here!)</p>
-<!-- I think there's an easier way to do lists in markdown but I forgot how so I just did it the hard way lol -->
+<p>The team is constantly expanding, but here's a list of the people currently contributing to the github page. (Please add your name if you belong here!)</p>
+<!-- I think there's an easier way to do lists in markdown but I forgot how so I just did it this way lol-->
 <ul>
   <li>pikapower9080</li>
 </ul>
